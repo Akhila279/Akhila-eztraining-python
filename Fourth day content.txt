@@ -1,0 +1,6 @@
+MUTABLE VS IMMUTABLE:
+
+Mutable-can be changed after creation
+ex:list,set,dictionary
+immutable-can't be changed after creation
+ex:int.float,string,bool,tuple
