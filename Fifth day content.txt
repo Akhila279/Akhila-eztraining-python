@@ -1,0 +1,19 @@
+FUNCTIONS:
+
+Classifications:
+predefined
+user defined
+
+
+For code reusability we want to use a particular function for multiple times in our program instead of writting the same code multiple
+times we can write it once include that inside a function
+and can call the function wherever we need it 
+
+Types:
+1)Functions without argument without return value
+2)without argument with return
+3)with argument and without return
+4)with argument and with return
+
+RECURSIVE FUNCTION:
+A function which calls itself is called recursive function
