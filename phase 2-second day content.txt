@@ -1,0 +1,47 @@
+polymorphism:
+one item or same item used for different purpose
+Types:
+1)Overloading
+  a)operator overloading
+     Ex:5+10=15 we will just add the numbers
+        "5"+"10"=510 in this case it is concatenation
+  b)method overloading
+2)overriding:If a method is defective or cannot be used inside derived class it will take it from its base class or parent class
+
+DATA STRUCTURES:
+Two types:
+ linear datastructure:-storing data sequentially
+  Ex:Array/linked list/stack/queue/matrix
+ non-linear datastructure:-no sequential style required
+  ex:binary tree/heap/hash function/graph
+
+
+static:which cannot be changed i.e.,size
+ex:Array
+Dynamic:which is changeable
+ex:list,stack,queue
+
+LINKED LIST:
+realtime example:Train
+As the name says list of items which are linked with one another is called as linked list
+Types:
+1)single linked list
+2)double linked list
+3)circular linked list
+
+CREATING LINKED LIST:
+STEP 1:Create the node
+STEP 2:Partition the node with two segments data and none
+STEP 3:Add value into the blank node
+STEP 4:Mark th node as head
+STEP 5:create the next node by following tha above steps
+STEP 6:Establish link between first node and the next node
+
+DISPLAYING LINKED LIST:
+Traversal is required from first node till tail node in order to display existing linked list
+
+
+
+
+
+
